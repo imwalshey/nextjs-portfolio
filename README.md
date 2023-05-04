@@ -25,15 +25,15 @@ You can learn more about the `app/` directory [here](https://beta.nextjs.org/doc
 This application requires Node.js v16.13+.
 
 ```bash
-git clone https://github.com/leerob/leerob.io.git
+git clone https://github.com/imwalshey/leerob.io.git
 cd leerob.io
 pnpm install
 pnpm run setup # Remove all of my personal information
 pnpm dev
 ```
 
-Create a `.env` file similar to [`.env.example`](https://github.com/leerob/leerob.io/blob/main/.env.example).
+Create a `.env` file similar to [`.env.example`](https://github.com/imwalshey/leerob.io/blob/main/.env.example).
 
 ## Cloning / Forking
 
-Please review the [license](https://github.com/leerob/leerob.io/blob/main/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.) by running `pnpm run setup`.
+Please review the [license](https://github.com/imwalshey/leerob.io/blob/main/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.) by running `pnpm run setup`.

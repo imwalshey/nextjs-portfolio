@@ -52,7 +52,7 @@ export default async function HomePage() {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/leerob"
+            href="https://github.com/imwalshey"
             className="flex items-center gap-2"
           >
             <GitHubIcon />
